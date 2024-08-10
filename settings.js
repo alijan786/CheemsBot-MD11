@@ -11,7 +11,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //session
-global.sessionid ='ur session id'
+global.sessionid ='10_8_3b31_141a_6189'
 
 //owmner v card
 global.ytname = "YT: Xeon" //ur yt chanel name
@@ -20,7 +20,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
+global.ownernumber = '923277649271' //ur owner number
 global.ownername = '🦄드림 가이 Xeon' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
@@ -29,9 +29,9 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
 global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.creator = "923277649271@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["923277649271"] // Premium User
 global.hituet = 0
 
 //bot sett
